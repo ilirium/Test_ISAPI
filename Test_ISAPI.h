@@ -27,6 +27,8 @@ public:
 
 	void Default(CHttpServerContext* pCtxt);
 
+	void CTest_ISAPIExtension::PostString(CHttpServerContext* pCtxt);
+
 	DECLARE_PARSE_MAP()
 
 	//{{AFX_MSG(CTest_ISAPIExtension)

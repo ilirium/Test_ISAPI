@@ -132,6 +132,10 @@ SOURCE=.\Test_ISAPI.rc2
 # End Group
 # Begin Source File
 
+SOURCE=.\html\index.htm
+# End Source File
+# Begin Source File
+
 SOURCE=.\README.md
 # End Source File
 # End Target

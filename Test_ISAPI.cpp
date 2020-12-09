@@ -20,6 +20,7 @@ BEGIN_PARSE_MAP(CTest_ISAPIExtension, CHttpServer)
 	// For example:
 
 	ON_PARSE_COMMAND(Default, CTest_ISAPIExtension, ITS_EMPTY)
+	ON_PARSE_COMMAND(PostString, CTest_ISAPIExtension, ITS_EMPTY)
 	DEFAULT_PARSE_COMMAND(Default, CTest_ISAPIExtension)
 END_PARSE_MAP(CTest_ISAPIExtension)
 
@@ -72,6 +73,20 @@ void CTest_ISAPIExtension::Default(CHttpServerContext* pCtxt)
 	*pCtxt << _T("This default message was produced by the Internet");
 	*pCtxt << _T(" Server DLL Wizard. Edit your CTest_ISAPIExtension::Default()");
 	*pCtxt << _T(" implementation to change it.\r\n");
+	*pCtxt << _T("<br>Wellcome to Hell :)");
+
+	EndContent(pCtxt);
+}
+
+
+void CTest_ISAPIExtension::PostString(CHttpServerContext* pCtxt)
+{
+	StartContent(pCtxt);
+	WriteTitle(pCtxt);
+
+	*pCtxt << _T("Route: PostString");
+	*pCtxt << _T("<p>");
+	*pCtxt << _T("AAA AAA AAA");
 
 	EndContent(pCtxt);
 }

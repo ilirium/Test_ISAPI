@@ -1,4 +1,4 @@
-//Microsoft Visual C++ generated resource script.
+//Microsoft Developer Studio generated resource script.
 //
 #include "resource.h"
 
@@ -7,28 +7,35 @@
 //
 // Generated from the TEXTINCLUDE 2 resource.
 //
-
 #include "afxres.h"
 
 /////////////////////////////////////////////////////////////////////////////
 #undef APSTUDIO_READONLY_SYMBOLS
 
-#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
 
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
 /////////////////////////////////////////////////////////////////////////////
 //
 // TEXTINCLUDE
 //
 
-1 TEXTINCLUDE DISCARDABLE
+1 TEXTINCLUDE DISCARDABLE 
 BEGIN
-	"resource.h\0"
+    "resource.h\0"
 END
 
-2 TEXTINCLUDE DISCARDABLE
+2 TEXTINCLUDE DISCARDABLE 
 BEGIN
-	"#include ""afxres.h""\r\n"
-	"\0"
+    "#include ""afxres.h""\r\n"
+    "\0"
 END
 
 3 TEXTINCLUDE DISCARDABLE 
@@ -37,22 +44,24 @@ BEGIN
     "#define _AFX_NO_OLE_RESOURCES\r\n"
     "#define _AFX_NO_TRACKER_RESOURCES\r\n"
     "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
-	"\r\n"
-	"\r\n"
-	"#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
-	"#ifdef _WIN32\r\n"
-	"LANGUAGE 9, 1\r\n"
-	"#pragma code_page(1252)\r\n"
-	"#endif //_WIN32\r\n"
-	"#include ""Test_ISAPI.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
-	"#include ""afxres.rc""  	// Standard components\r\n"
-	"#include ""afxisapi.rc""	// Internet Support resources\r\n"
-	"#endif\r\n"
-	"\0"
+    "\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""Test_ISAPI.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#include ""afxisapi.rc""       // Internet Support resources\r\n"
+    "#endif\r\n"
+    "\0"
 END
+
 #endif    // APSTUDIO_INVOKED
 
 
+#ifndef _MAC
 /////////////////////////////////////////////////////////////////////////////
 //
 // Version
@@ -92,26 +101,41 @@ BEGIN
     END
 END
 
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// CUSTOMHTML
+//
+
+IDR_HTML_INDEX          CUSTOMHTML DISCARDABLE  "html\\index.htm"
+
 /////////////////////////////////////////////////////////////////////////////
 //
 // String Table
 //
 
-STRINGTABLE DISCARDABLE
+STRINGTABLE DISCARDABLE 
 BEGIN
-	IDS_SERVER        "Test_ISAPI Extension"
+    IDS_SERVER              "Test_ISAPI Extension"
 END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
 
 #ifndef APSTUDIO_INVOKED
 /////////////////////////////////////////////////////////////////////////////
 //
 // Generated from the TEXTINCLUDE 3 resource.
 //
-
 #define _AFX_NO_SPLITTER_RESOURCES
 #define _AFX_NO_OLE_RESOURCES
 #define _AFX_NO_TRACKER_RESOURCES
 #define _AFX_NO_PROPERTY_RESOURCES
+
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
 #ifdef _WIN32
@@ -119,10 +143,10 @@ LANGUAGE 9, 1
 #pragma code_page(1252)
 #endif //_WIN32
 #include "Test_ISAPI.rc2"  // non-Microsoft Visual C++ edited resources
-#include "afxres.rc"  	// Standard components
-#include "afxisapi.rc"	// Internet Support resources
+#include "afxres.rc"         // Standard components
+#include "afxisapi.rc"       // Internet Support resources
 #endif
 
+/////////////////////////////////////////////////////////////////////////////
 #endif    // not APSTUDIO_INVOKED
-
 
