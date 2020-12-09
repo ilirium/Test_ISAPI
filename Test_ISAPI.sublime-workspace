@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"archive_file_name"
+			],
+			[
+				"pa",
+				"paths_full"
+			],
+			[
+				"arh",
+				"archive_file_name"
+			],
+			[
+				"com",
+				"compress"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"un",
+				"unrar_name"
+			],
+			[
+				"unrar",
+				"unrar_path"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"gith",
+				"GitHub Theme: Edit Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ilirium/Storages/VMware/Projects/Test_ISAPI/Debug/Test_ISAPI.res",
+		"/Users/ilirium/Storages/VMware/Projects/Test_ISAPI/Debug/vc60.pdb",
+		"/Users/ilirium/Storages/VMware/Projects/Test_ISAPI/Debug/Test_ISAPI.pdb",
+		"/Users/ilirium/Storages/VMware/Projects/Test_ISAPI/Debug/Test_ISAPI.pch",
+		"/Users/ilirium/Storages/VMware/Projects/Test_ISAPI/Debug/Test_ISAPI.lib",
+		"/Users/ilirium/Storages/VMware/Projects/Test_ISAPI/Debug/Test_ISAPI.ilk",
+		"/Users/ilirium/Storages/VMware/Projects/Test_ISAPI/Debug/vc60.idb",
+		"/Users/ilirium/Storages/VMware/Projects/Test_ISAPI/Resource.h",
+		"/private/etc/hosts",
+		"/Users/ilirium/Storages/Dropbox/its_my/documents/1.md",
+		"/Library/AWP/awp_uninstall.sh",
+		"/Users/ilirium/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/Users/ilirium/Downloads/Inspired GitHub Color Scheme/package-metadata.json",
+		"/Users/ilirium/Library/Application Support/Sublime Text 3/Installed Packages/Inspired GitHub Color Scheme _edited.sublime-package",
+		"/Users/ilirium/Library/Application Support/Sublime Text 3/Installed Packages/Inspired GitHub Color Scheme.sublime-package",
+		"/Users/ilirium/Movies/Archive.bom",
+		"/Users/ilirium/OWM/weather/precip_radar_metrics_service/calc_metrics/calc.py",
+		"/Users/ilirium/Downloads/ml_paper_003.docx",
+		"/Volumes/PDF Expert 2.5.10 1/Extra/tnt.nfo",
+		"/Volumes/PDF Expert 2.5.10 1/Extra/tnt.sfv",
+		"/Users/ilirium/OWM/agro/crop_lib/reinstall.sh",
+		"/Users/ilirium/Storages/OneDrive/moving-to-software-engineering/Опыт удаленной работы.txt",
+		"/Users/ilirium/Downloads/data_copy.sh",
+		"/Users/ilirium/Books/publisher.txt",
+		"/Users/ilirium/Books/series of book.txt",
+		"/Users/ilirium/Downloads/Spirited Away (2001, XviD BDRip, RUS JAP+SUB) [Stranik 2.0]/Spirited Away (2001, XviD BDRip, RUS JAP+SUB) [Stranik 2.0].srt",
+		"/Users/ilirium/opt/anaconda3/pkgs/notebook-6.0.3-py37hc8dfbb8_0/lib/python3.7/site-packages/notebook/static/components/MathJax/extensions/MathZoom.js",
+		"/Users/Shared/Relocated Items/Configuration/private/etc/shells.system_default",
+		"/Users/ilirium/.pysteps/pystepsrc",
+		"/Users/ilirium/Downloads/toc.md",
+		"/Users/ilirium/Downloads/_New Magazine/MIT_Technolgy_Review_-_07_2019_-_08_2019.pdf",
+		"/Users/ilirium/Downloads/_New Magazine/MIT_Technology_Review_-_01_2019_-_02_2019.pdf",
+		"/Users/ilirium/Downloads/_New Magazine/MIT_Technology_Review_-_03_2019_-_04_2019.pdf",
+		"/Users/ilirium/Downloads/_New Magazine/MIT_Technology_Review_-_05_2019_-_06_2019.pdf",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code/foundation/.gitignore",
+		"/Users/ilirium/OWM/data/f029_info.txt",
+		"/Users/ilirium/.jupyter/custom/custom.css",
+		"/custom.css",
+		"/Users/ilirium/Downloads/Coronavirus impact on AI_Data Science_Machine Learning community; Recreating Fingerprints using Convolutional Autoencoders.eml",
+		"/Users/ilirium/.ssh/gitlabci/id_rsa",
+		"/Users/ilirium/Downloads/json(1).json",
+		"/Users/ilirium/Downloads/_restored/OneDrive/OWM/2020/crop_ml_celery/tests/gdp12_iowa/celery_taskmeta_json_array.json",
+		"/Users/ilirium/Downloads/celery_taskmeta-2.json",
+		"/Users/ilirium/Downloads/celery_taskmeta.json",
+		"/Users/ilirium/Storages/Old Repositories/OWM/2019/crop_ml_api/app/prediction-MBP Ilirium.py",
+		"/Users/ilirium/Storages/OneDrive/moving-to-software-engineering/_2020/_For Applications/Ilya Kalimulin Resume En 2020 r047.txt",
+		"/Users/ilirium/Storages/OneDrive/moving-to-software-engineering/_2020/_For Applications/Skills",
+		"/Users/ilirium/Downloads/Jumanji_Zov_djunglei_2017_BDRip_by_Dalemake/Jumanji_Zov_djunglei_2017_BDRip_by_Dalemake_Eng_Sub.srt",
+		"/Users/ilirium/Downloads/Jumanji 2017 NEW HDCAM HQ CPG.srt",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/crop_ml/1.txt",
+		"/Volumes/boot/wpa_supplicant.conf",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/crop_ml/apps/tempcnn_v19/train.py",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/crop_ml/_data/whole_tiles/tile13.json",
+		"/anaconda3/envs/api_crop/lib/python3.7/site-packages/scipy/interpolate/fitpack2.py",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/crop_ml/.gitignore",
+		"/Users/ilirium/Downloads/TempCNN_v18_Corn_Belt_121_classes.py",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/crop_ml/tests/_data/USA_13_by_states.json",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/crop_ml/_data/whole_tiles/USA_13_by_states.json",
+		"/Applications/Develop/PyCharm.app/Contents/helpers/pycharm/_jb_pytest_runner.py",
+		"/Users/ilirium/Library/Application Support/Firefox/Profiles/l97yj6sm.default-1522997108498/chrome/userChrome.css",
+		"/Users/ilirium/Library/Application Support/Firefox/profiles.ini",
+		"/Users/ilirium/Downloads/tile13.json",
+		"/Users/ilirium/Downloads/USA_13_by_states.json",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/iTunesLibrary.framework/Versions/A/Headers/iTunesLibrary.h",
+		"/Users/ilirium/Downloads/_lossless/Rammstein - Rammstein (2019)/Rammstein - Rammstein.cue",
+		"/Users/ilirium/Downloads/e1-s101.webarchive",
+		"/Users/ilirium/Downloads/e1-s101.html",
+		"/anaconda3/pkgs/statsmodels-0.10.0-py36h1d22016_0/lib/python3.6/site-packages/statsmodels/regression/quantile_regression.py",
+		"/Users/ilirium/Downloads/imagenet-classification-with-deep-convolutional-neural-networks.bib",
+		"/Users/ilirium/Downloads/gfs.t00z.pgrb2.0p50.f252.txt",
+		"/Users/ilirium/Downloads/gfs05.json",
+		"/Users/ilirium/Movies/GUIDANCE.txt",
+		"/Users/ilirium/Downloads/depositphotos_72771753-stock-illustration-hand-drawing-ballerina-figure.jpg",
+		"/Users/ilirium/Downloads/Grass.itermcolors",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2019/dash-bootstrap-components/progress.py",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2019/flasky/app/main/views.py",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2019/flasky/README.md",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2019/flasky/app/static/favicon.ico",
+		"/Users/ilirium/Downloads/php/php1.sublime-project",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/tgftp.nws.noaa.gov/nsd_bbsss.txt",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/tgftp.nws.noaa.gov/nsd_cccc.txt",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/weathergraphics.com/master-location-identifier-database-20190210_standard_edited.csv",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/aviationweather.gov/sao.cty",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/aviationweather.gov/stations.txt",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/aviationweather.gov/httpparam.csv",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/weathergraphics.com/master-location-identifier-database-20190210_standard.csv",
+		"/Users/ilirium/Downloads/countryInfo.txt",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/countries_geonames.csv",
+		"/Users/ilirium/Storages/OneDrive/OWM/2019/forecast_success_rate_calculator/data/metar.json",
+		"/Users/ilirium/Downloads/metar.json",
+		"/Users/ilirium/Downloads/swap_option_command_for_pc.json",
+		"/Users/ilirium/Storages/OneDrive/OWM/data/forecast_success_rate_data_new/downloader.log",
+		"/Users/ilirium/Storages/OneDrive/OWM/2018/weather_history_recovering/gitlab/core-php/weather.2.0.php",
+		"/Users/ilirium/Downloads/Rozhdestvenskie_hroniki_2018_WEB-DLRip_by_Dalemake/Rozhdestvenskie_hroniki_2018_WEB-DLRip_by_Dalemake_Rus_Sub_forc.srt",
+		"/Users/ilirium/Downloads/city.list.json",
+		"/Users/ilirium/Storages/OneDrive/OWM/2018/historical_dataset_quality/data/cities_with_population.json",
+		"/Users/ilirium/Downloads/cities1000.txt",
+		"/anaconda3/pkgs/geopy-1.17.0-py_0/site-packages/geopy/distance.py",
+		"/anaconda3/pkgs/geopy-1.17.0-py_0/site-packages/geopy/units.py",
+		"/Users/ilirium/Storages/OneDrive/OWM/2018/historical_dataset_quality/data/city.list.json",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2018/fastai/environment.yml",
+		"/Users/ilirium/Storages/OneDrive/OWM/2018/historical-dataset-quality/data/history.city.list.json",
+		"/Users/ilirium/Desktop/Firefox Nightly.sh",
+		"/Users/ilirium/Downloads/new.json",
+		"/Users/ilirium/Downloads/old.json",
+		"/Users/ilirium/Downloads/1k_cities_IDs.txt",
+		"/Users/ilirium/Downloads/history.city.list.json",
+		"/Users/ilirium/Storages/OneDrive/personal-life/personal-2018/1103 Почты для Наташи/1.txt",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2018/interview-owm/data/stations/397.json",
+		"/Users/ilirium/Storages/OneDrive/moving-to-software-engineering/Vacancies 2018/2018.10.22 OpenWeatherMap, Riga, test/task for DS/stations data/374.json",
+		"/Users/ilirium/Storages/OneDrive/moving-to-software-engineering/Vacancies 2018/2018.10.22 OpenWeatherMap, Riga, test/task for DS/stations data/format.json",
+		"/Users/ilirium/Downloads/cit-03/cit-03.tex",
+		"/Users/ilirium/Movies/Afera.Tomasa.Krauna.1999.DUAL.BDRip.XviD.AC3.-HQCLUB/Afera.Tomasa.Krauna.1999.DUAL.BDRip.XviD.AC3.-HQCLUB.RUS.srt",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2018/interview-mpgu/.gitignore",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2018/fastai/.gitignore",
+		"/Users/ilirium/Storages/OneDrive/moving-to-software-engineering/Vacancies 2018/2018.10.12a МПГУ, Москва, test/task.txt",
+		"/Users/ilirium/Storages/Dropbox/its_my/documents/3.txt",
+		"/Users/ilirium/Downloads/kaggle.json",
+		"/Volumes/flash_drive/1.txt",
+		"/Users/ilirium/Storages/OneDrive/ai/ai-2018/23.08 Болезни сердца, ИТМО и Центр Алмазова/readme.md",
+		"/Users/ilirium/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ilirium/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ilirium/.kaggle/competitions/whats-cooking-kernels-only/train.json",
+		"/Users/ilirium/Storages/OneDrive/software-engineering/code-2018/foundation/json/receipts_sample.json",
+		"/Users/ilirium/Library/Application Support/org.yanex.marta/conf.json",
+		"/Users/ilirium/Books/iT/Programming/Algorithms/-Алгоритмы. Построение и анализ - Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн/1.txt",
+		"/Users/ilirium/Storages/Dropbox/software-engineering/py-edu/small_script/pdf_extract_pages/pdf_exctract_pages_bookmark2.tex",
+		"/Users/ilirium/Storages/Dropbox/software-engineering/py-edu/small_script/pdf_extract_pages/1.tex"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Test_ISAPI.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,8 @@
+; TEST_ISAPI.def : declares the module parameters for the DLL.
+
+LIBRARY	     "TEST_ISAPI"
+
+EXPORTS
+	HttpExtensionProc
+	GetExtensionVersion
+	TerminateExtension
